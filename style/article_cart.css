@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+.content_gc{width:1200px; height:500px; margin:auto; }
+.content_c_lb{width:1200px; height:340px; }
+.content_c_lb_a{width:1200px; height:40px; border-bottom:1px solid rgba(163,156,156,1.00);line-height:40px; background-color:rgba(255,255,255,1.00); border-top:0px;border-left:0px; border-right:0px;}
+.content_c_lb_b{width:1200px; height:70px;background-color:rgba(255,255,255,1.00); border-left:0px; border-right:0px;}
+.content_c_lb_c{width:1200px; height:70px;border:1px solid rgba(187,152,153,1.00);background-color:rgba(255,255,255,1.00);border-left:0px; border-right:0px;}
+.content_c_lb_d{width:1200px; height:30px;margin-top:30px;}
+.content_c_lb_e{width:1200px; height:40px;margin-top:10px;}
+.content_c_lb_a_a{width:380px; height:40px; float:left; margin-left:5px;}
+.content_c_lb_a_b{width:180px; height:40px; float:left;}
+.content_c_lb_a_c{width:100px; height:40px; float:left;}
+.content_c_lb_a_d{width:210px; height:40px; float:left;}
+.content_c_lb_b_a{width:380px; height:70px; float:left; margin-left:5px;}
+.content_c_lb_b_a_l{width:55px; height:55px; margin-top:5px;float:left;}
+.content_c_lb_b_a_r{width:290px; height:55px; margin-top:5px; margin-left:5px;float:left; font-size:14px; color:rgba(104,132,118,1.00);}
+.r{ float:left; margin-top:25px; margin-right:5px;}
+.content_c_lb_b_b{width:180px; height:70px; float:left;font-size:14px; color:rgba(104,132,118,1.00); line-height:70px;}
+.content_c_lb_b_c{width:100px; height:70px; float:left;font-size:14px; color:rgba(104,132,118,1.00); line-height:70px;}
+.content_c_lb_b_d{width:210px; height:70px; float:left;font-size:14px; color:rgba(104,132,118,1.00); line-height:70px; }
+.content_c_lb_b_e{width:50px; height:70px; float:right;font-size:14px; color:rgba(104,132,118,1.00); line-height:70px; }
+.p1{ float:right; color:rgba(255,0,4,1.00); font-size:24px;}
+.p2{ float:left; font-size:14px;}
+.b1{width:80px; height:30px; float:left;}
+.b2{width:80px; height:30px; float:right; background-color:rgba(241,61,64,1.00); color:rgba(255,255,255,1.00) ; border:0px;}
